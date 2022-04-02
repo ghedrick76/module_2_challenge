@@ -132,11 +132,17 @@ def run():
 
 def save_qualifying_loans(qualifying_loans):
     qualifying_loans
+    # User will be prompted on whether or not they want to save the qualifying loans
     save_request = questionary.confirm("Would you like to save the results to a new file?").ask()
+    # This loop with either save the qualifying loans or exit without saving.
     if save_request == True:
+        # Allows the user to choose where to save their new file
+        questionary.path("Where would you like to save the new file?").ask()
         save_csv(qualifying_loans)
+        print("Your file has been saved!")
     else:
-        print("Your file was not saved.")    
+        print("Your file was not saved.")
+    
 
 
 if __name__ == "__main__":
