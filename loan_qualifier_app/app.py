@@ -9,6 +9,7 @@ Example:
 import sys
 import fire
 import questionary
+import csv
 from pathlib import Path
 
 from qualifier.utils.fileio import load_csv
@@ -102,7 +103,11 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     return bank_data_filtered
 
 
-def save_qualifying_loans(qualifying_loans):
+
+
+
+def save_csv(qualifying_loans):
+    header = ["Qualifying Loans"]
     """Saves the qualifying loans to a CSV file.
 
     Args:
@@ -110,6 +115,10 @@ def save_qualifying_loans(qualifying_loans):
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
+    with open('/Users/grayson/Documents/Challenges/module_2_challenge/loan_qualifier_app/data/qualified_loans.csv', 'w') as f:
+        csv_writer = csv.writer(f)
+        csv_writer.writerow(header)
+        csv_writer.writerow(qualifying_loans)
 
 
 def run():
@@ -127,7 +136,7 @@ def run():
     )
 
     # Save qualifying loans
-    save_qualifying_loans(qualifying_loans)
+    save_csv(qualifying_loans)
 
 
 if __name__ == "__main__":
