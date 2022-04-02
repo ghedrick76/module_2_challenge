@@ -121,8 +121,22 @@ def run():
         bank_data, credit_score, debt, income, loan_amount, home_value
     )
 
+
+
     # Save qualifying loans
+    "This saves the qualifying loans to a specified CSV file"
+    save_qualifying_loans(qualifying_loans)
     save_csv(qualifying_loans)
+    
+    
+
+def save_qualifying_loans(qualifying_loans):
+    qualifying_loans
+    save_request = questionary.confirm("Would you like to save the results to a new file?").ask()
+    if save_request == True:
+        save_csv(qualifying_loans)
+    else:
+        print("Your file was not saved.")    
 
 
 if __name__ == "__main__":
