@@ -1,0 +1,1037 @@
+   50  git branch -M main
+   51  git remote add origin https://github.com/ghedrick76/Fintech-Course.git
+   52  git push -u origin main
+   53  git push -u origin main
+   54  git push -u origin main
+   55  python percent_increase.py
+   56  conda init bash
+   57  conda init zsh
+   58  conda activate dev
+   59  python percent_increase.py
+   60  conda deactivate
+   61  pwd
+   62  ls
+   63  cd documents
+   64  pwd
+   65  ls
+   66  mkdir Fintech-Workspace
+   67  ls
+   68  cd Fintech-Workspace
+   69  ls
+   70  cd ..
+   71  cd ~
+   72  pwd
+   73  ls
+   74  cd documents
+   75  ls
+   76  cd Fintech-Workspace
+   77  echo test.txt
+   78  ls
+   79  push test.txt
+   80  cd Fintech-Workspace/
+   81  cd Python_Project/
+   82  ls
+   83  conda activate dev
+   84  python --version
+   85  code .
+   86  code .
+   87  code .
+   88  python hello_python.py
+   89  conda deactivate
+   90  conda activate dev
+   91  python hello_python.py
+   92  python hello_python.py
+   93  python hello_python.py
+   94  python hello_python.py
+   95  python hello_python.py
+   96  pwd
+   97  ls
+   98  touch M1L3.py
+   99  ls
+  100  python M1L3.py
+  101  python M1L3.py
+  102  pwd
+  103  cd /users/grayson
+  104  pwd
+  105  ls
+  106  cd downloads
+  107  ls
+  108  Class_1_Activities
+  109  Open Class_1_Activities
+  110  ls
+  111  cd Class_1_Activities
+  112  ls
+  113  cd 01_Ins_Variables
+  114  ls
+  115  cd Unsolved
+  116  ls
+  117  pwd
+  118  cd /users/Grayson
+  119  ls
+  120  cd downloads
+  121  ls
+  122  cd 01_Hello_Variable_World
+  123  ls
+  124  cd unsolved
+  125  ls
+  126  python hello_variable_world.py
+  127  python hello_variable_world.py
+  128  python M1L3.py
+  129  pwd
+  130  cd downloads
+  131  cd /users/Grayson/downloads/
+  132  ls
+  133  cd Class_1_activities
+  134  ls
+  135  cd 03_Ins_Lists
+  136  ls
+  137  cd unsolved
+  138  ls
+  139  python lists.py
+  140  open lists.py
+  141  python lists.py
+  142  python lists.py
+  143  python lists.py
+  144  python lists.py
+  145  python lists.py
+  146  python lists.py
+  147  python lists.py
+  148  python lists.py
+  149  python lists.py
+  150  pwd
+  151  cd /users/grayson
+  152  ls
+  153  cd downloads
+  154  ls
+  155  cd 02_Listing_Assets
+  156  ls
+  157  cd unsolved
+  158  ls
+  159  python listing_assets.py
+  160  python listing_assets.py
+  161  python listing_assets.py
+  162  python listing_assets.py
+  163  pwd
+  164  pwd
+  165  python listing_assets.py
+  166  python listing_assets.py
+  167  python listing_assets.py
+  168  python listing_assets.py
+  169  cd /users/grayson
+  170  ls
+  171  downloads
+  172  cd downloads
+  173  ls
+  174  cd 03_The_401k_Shuffle
+  175  ls
+  176  cd unsolved
+  177  ls
+  178  python the_401k_shuffle.py
+  179  cd /users/grayson/downloads
+  180  ls
+  181  cd 03_The_401k_Shuffle
+  182  ls
+  183  cd unsolved
+  184  ls
+  185  python the_401k_shuffle.py
+  186  python the_401k_shuffle.py
+  187  python the_401k_shuffle.py
+  188  python the_401k_shuffle.py
+  189  python the_401k_shuffle.py
+  190  python the_401k_shuffle.py
+  191  python the_401k_shuffle.py
+  192  python the_401k_shuffle.py
+  193  python the_401k_shuffle.py
+  194  cd users/grayson/desktop
+  195  cd /user/grayson/desktop
+  196  cd /users/grayson/desktop
+  197  ls
+  198  cd /users/grayson/desktop
+  199  cd /users/grayson
+  200  ls
+  201  cd downloads
+  202  ls
+  203  cd /users/grayson
+  204  ls
+  205  cd documents
+  206  ls
+  207  cd Fintech-workspace
+  208  ls
+  209  cd python_project
+  210  ls
+  211  touch conditional_logic.py
+  212  python conditional_logic.py
+  213  python conditional_logic.py
+  214  python conditional_logic.py
+  215  python conditional_logic.py
+  216  python conditional_logic.py
+  217  python conditional_logic.py
+  218  cd ..
+  219  cd python_project
+  220  cd python_project
+  221  python conditional_logic.py
+  222  python conditional_logic.py
+  223  python conditional_logic.py
+  224  cd ..
+  225  cd ..
+  226  cd ..
+  227  cd downloads
+  228  ls
+  229  cd 01_Conditional_Statement
+  230  ls
+  231  cd unsolved
+  232  python conditional_statement.py
+  233  python conditional_statement.py
+  234  python conditional_statement.py
+  235  python conditional_statement.py
+  236  python currency.py
+  237  python currency.py
+  238  python currency.py
+  239  python currency.py
+  240  python currency.py
+  241  cd ..
+  242  cd ..
+  243  ls
+  244  cd 02_Nested_Conditionals
+  245  ls
+  246  cd unsolved
+  247  python nested_conditionals.py
+  248  python nested_conditionals.py
+  249  python nested_conditionals.py
+  250  python nested_conditionals.py
+  251  python nested_conditionals.py
+  252  python nested_conditionals.py
+  253  python nested_conditionals.py
+  254  python nested_conditionals.py
+  255  python nested_conditionals.py
+  256  python nested_conditionals.py
+  257  python nested_conditionals.py
+  258  python nested_conditionals.py
+  259  python nested_conditionals.py
+  260  python nested_conditionals.py
+  261  cd ..
+  262  cd ..
+  263  ls
+  264  cd 03_Split_Second_Homebuying
+  265  ls
+  266  cd unsolved
+  267  ls
+  268  python split_second_homebuying.py
+  269  python split_second_homebuying.py
+  270  python split_second_homebuying.py
+  271  python split_second_homebuying.py
+  272  python split_second_homebuying.py
+  273  python split_second_homebuying.py
+  274  python split_second_homebuying.py
+  275  python split_second_homebuying.py
+  276  python split_second_homebuying.py
+  277  python split_second_homebuying.py
+  278  pwd
+  279  ls
+  280  python m1l5.py
+  281  python m1l5.py
+  282  python m1l5.py
+  283  python m1l5.py
+  284  python m1l5.py
+  285  python m1l5.py
+  286  python m1l5.py
+  287  python m1l5.py
+  288  python m1l5.py
+  289  python m1l5.py
+  290  python m1l5.py
+  291  cd ..
+  292  cd ..
+  293  ls
+  294  cd 01_A_Definitive_Buy
+  295  cd unsolved
+  296  ls
+  297  python a_definitive_buy.py
+  298  python a_definitive_buy.py
+  299  python a_definitive_buy.py
+  300  python a_definitive_buy.py
+  301  cd ..
+  302  cd ..
+  303  cd users/grayson
+  304  cd /users/grayson
+  305  ls
+  306  cd documents
+  307  ls
+  308  cd fintech-workspace
+  309  ls
+  310  cd python_project
+  311  ls
+  312  touch M1L5
+  313  touch M1L5.py
+  314  python M1L5.py
+  315  python M1L5.py
+  316  python M1L5.py
+  317  python M1L5.py
+  318  python M1L5.py
+  319  python M1L5.py
+  320  python M1L5.py
+  321  python M1L5.py
+  322  python M1L5.py
+  323  python M1L5.py
+  324  cd ..
+  325  cd users/grayson
+  326  cd /users/grayson
+  327  cd downloads
+  328  ls
+  329  cd 02_Returned_Goods
+  330  cd unsolved
+  331  ls
+  332  pytohn returned_goods.py
+  333  python returned_goods.py
+  334  python returned_goods.py
+  335  python returned_goods.py
+  336  python returned_goods.py
+  337  python returned_goods.py
+  338  python returned_goods.py
+  339  python returned_goods.py
+  340  python returned_goods.py
+  341  python returned_goods.py
+  342  python returned_goods.py
+  343  python returned_goods.py
+  344  python returned_goods.py
+  345  python returned_goods.py
+  346  python returned_goods.py
+  347  python returned_goods.py
+  348  python returned_goods.py
+  349  pwd
+  350  cd ll
+  351  cd ..
+  352  cd ..
+  353  ls
+  354  cd 03_Split_Second_Homebuying_Part_2
+  355  cd unsolved
+  356  ls
+  357  python split_second_part_2.py
+  358  python split_second_part_2.py
+  359  python split_second_part_2.py
+  360  python split_second_part_2.py
+  361  python split_second_part_2.py
+  362  python split_second_part_2.py
+  363  python split_second_part_2.py
+  364  python conditional.py
+  365  ls
+  366  python conditional.py
+  367  python conditional.py
+  368  python conditional.py
+  369  python conditional.py
+  370  python conditional.py
+  371  python conditional.py
+  372  python conditional.py
+  373  python conditional.py
+  374  python conditional.py
+  375  python conditional.py
+  376  cd ..
+  377  cd ..
+  378  ls
+  379  cd /users/grayosn
+  380  ls
+  381  cd /users/grayson
+  382  ls
+  383  cd documents
+  384  ls
+  385  cd Fintech-Workspace
+  386  ls
+  387  cd ..
+  388  mv fintech-workspace /users/grayson/desktop
+  389  ls
+  390  cd /users/grayson
+  391  ls
+  392  cd desktop
+  393  ls
+  394  mv fintech-workspace Fintech-Workspace
+  395  ls
+  396  cd FinTech-Workspace
+  397  ls
+  398  cd python_project
+  399  ls
+  400  python m1L6.py
+  401  python m1L6.py
+  402  python m1L6.py
+  403  python m1L6.py
+  404  python m1L6.py
+  405  M1L6.py
+  406  python M1L6.py
+  407  python M1L6.py
+  408  python M1L6.py
+  409  python M1L6.py
+  410  pwd
+  411  cd ..
+  412  ls
+  413  cd Python_Project
+  414  ls
+  415  python M1L6.py
+  416  python M1L6.py
+  417  conda deactivate dev
+  418  conda deactivate
+  419  conda activate dev
+  420  ls
+  421  python M1L6.py
+  422  pwd
+  423  ls
+  424  python M1L6.py
+  425  /usr/bin/python3
+  426  conda activate dev
+  427  cd desktop
+  428  cd Fintech-Workspace
+  429  cd python_project
+  430  ls
+  431  M1L6.py
+  432  python M1L6.py
+  433  python M1L6.py
+  434  python M1L6.py
+  435  python M1L6.py
+  436  python M1L6.py
+  437  python M1L6.py
+  438  python M1L6.py
+  439  python M1L6.py
+  440  python M1L6.py
+  441  python M1L6.py
+  442  python M1L6.py
+  443  python M1L6.py
+  444  python M1L6.py
+  445  python M1L6.py
+  446  cd /users/grayson/downloads
+  447  ls
+  448  cd 01_Racking_Up_The_Profit
+  449  ls
+  450  cd unsolved
+  451  ls
+  452  cd racking_up_the_profit.py
+  453  python racking_up_the_profit.py
+  454  python racking_up_the_profit.py
+  455  python racking_up_the_profit.py
+  456  python racking_up_the_profit.py
+  457  python racking_up_the_profit.py
+  458  python racking_up_the_profit.py
+  459  python racking_up_the_profit.py
+  460  python racking_up_the_profit.py
+  461  python racking_up_the_profit.py
+  462  python racking_up_the_profit.py
+  463  python racking_up_the_profit.py
+  464  python racking_up_the_profit.py
+  465  python racking_up_the_profit.py
+  466  python racking_up_the_profit.py
+  467  python racking_up_the_profit.py
+  468  python racking_up_the_profit.py
+  469  python racking_up_the_profit.py
+  470  python racking_up_the_profit.py
+  471  python racking_up_the_profit.py
+  472  python racking_up_the_profit.py
+  473  python racking_up_the_profit.py
+  474  python racking_up_the_profit.py
+  475  python racking_up_the_profit.py
+  476  csv.py
+  477  python csv.py
+  478  ls
+  479  cd ..
+  480  cd ..
+  481  ls
+  482  cd /users/grayson/desktop/Fintech-Workspace
+  483  ls
+  484  cd python_project
+  485  python csv.py
+  486  cd /users/grayson/downloads
+  487  ls
+  488  cd 01_Racking_Up_The_Profit\n
+  489  python csv.py
+  490  python csv.py
+  491  cd /users/grayson
+  492  ls
+  493  cd documents
+  494  ls
+  495  cd fintech-workspace
+  496  ls
+  497  cd python_project
+  498  ls
+  499  python csv.py
+  500  ls
+  501  ls
+  502  ls
+  503  cd /users/grayson/downloads/02_Pathways_to_Success_Part_1/unsolved
+  504  python pathways_to_success.py
+  505  python pathways_to_success.py
+  506  python pathways_to_success.py
+  507  cd ..
+  508  cd ..
+  509  cd 01_Read_and_Write_CSV
+  510  touch quarterly_data.py
+  511  ls
+  512  cd ..
+  513  cd ls
+  514  ls
+  515  03_pathways_to_success_part_2
+  516  cd 03_Pathways_to_Success_Part_2
+  517  ls
+  518  cd unsolved
+  519  ls
+  520  python pathways_to_success_part_2.py
+  521  python pathways_to_success_part_2.py
+  522  python pathways_to_success_part_2.py
+  523  python pathways_to_success_part_2.py
+  524  python pathways_to_success_part_2.py
+  525  python pathways_to_success_part_2.py
+  526  python pathways_to_success_part_2.py
+  527  ls
+  528  cd ..
+  529  cd ..
+  530  ls
+  531  cd 04_Automating_Equity_Rounds
+  532  ls
+  533  cd unsolved
+  534  ls
+  535  cd automated_equity_rounds.py
+  536  python automated_equity_rounds.py
+  537  python automated_equity_rounds.py
+  538  python automated_equity_rounds.py
+  539  python automated_equity_rounds.py
+  540  python automated_equity_rounds.py
+  541  python automated_equity_rounds.py
+  542  python automated_equity_rounds.py
+  543  python automated_equity_rounds.py
+  544  python automated_equity_rounds.py
+  545  python automated_equity_rounds.py
+  546  python automated_equity_rounds.py
+  547  cd /users/grayson/desktop/Fintech-Workspace/python_project
+  548  ls
+  549  cd github-upload
+  550  ls
+  551  python loan_analyzer.py
+  552  python loan_analyzer.py
+  553  python loan_analyzer.py
+  554  python loan_analyzer.py
+  555  python loan_analyzer.py
+  556  python loan_analyzer.py
+  557  python loan_analyzer.py
+  558  python loan_analyzer.py
+  559  python loan_analyzer.py
+  560  python loan_analyzer.py
+  561  python loan_analyzer.py
+  562  python loan_analyzer.py
+  563  python loan_analyzer.py
+  564  python loan_analyzer.py
+  565  python loan_analyzer.py
+  566  python loan_analyzer.py
+  567  python loan_analyzer.py
+  568  python loan_analyzer.py
+  569  python loan_analyzer.py
+  570  python loan_analyzer.py
+  571  python loan_analyzer.py
+  572  python loan_analyzer.py
+  573  python loan_analyzer.py
+  574  python loan_analyzer.py
+  575  python loan_analyzer.py
+  576  python loan_analyzer.py
+  577  python loan_analyzer.py
+  578  python loan_analyzer.py
+  579  python loan_analyzer.py
+  580  python loan_analyzer.py
+  581  python loan_analyzer.py
+  582  python loan_analyzer.py
+  583  /usr/bin/python3
+  584  /usr/bin/python3 "/Users/grayson/Downloads/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  585  /usr/bin/python3 "/Users/grayson/Downloads/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  586  /usr/bin/python3 "/Users/grayson/Downloads/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  587  /usr/bin/python3 "/Users/grayson/Downloads/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  588  /usr/bin/python3 "/Users/grayson/Downloads/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  589  /usr/bin/python3 "/Users/grayson/Downloads/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  590  /usr/bin/python3 "/Users/grayson/Downloads/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  591  /usr/bin/python3 "/Users/grayson/Downloads/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  592  /usr/bin/python3 "/Users/grayson/Downloads/Class_1_Activities 3/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  593  conda activate dev
+  594  cd /users/grayson/desktop/fintech-workspace
+  595  ls
+  596  cd Python_Project
+  597  ls
+  598  cd github-upload
+  599  ls
+  600  python loan_analyzer.py
+  601  python loan_analyzer.py
+  602  python loan_analyzer.py
+  603  python loan_analyzer.py
+  604  python loan_analyzer.py
+  605  python loan_analyzer.py
+  606  python loan_analyzer.py
+  607  python loan_analyzer.py
+  608  python loan_analyzer.py
+  609  python loan_analyzer.py
+  610  python loan_analyzer.py
+  611  python loan_analyzer.py
+  612  python loan_analyzer.py
+  613  python loan_analyzer.py
+  614  python loan_analyzer.py
+  615  python loan_analyzer.py
+  616  python loan_analyzer.py
+  617  python loan_analyzer.py
+  618  python loan_analyzer.py
+  619  python loan_analyzer.py
+  620  python loan_analyzer.py
+  621  python loan_analyzer.py
+  622  python loan_analyzer.py
+  623  python loan_analyzer.py
+  624  python loan_analyzer.py
+  625  python loan_analyzer.py
+  626  python loan_analyzer.py
+  627  python loan_analyzer.py
+  628  pwd
+  629  cd ..
+  630  touch gme.py
+  631  python gme.py
+  632  python gme.py
+  633  python gme.py
+  634  python gme.py
+  635  python gme.py
+  636  python gme.py
+  637  python gme.py
+  638  python gme.py
+  639  pip -V
+  640  pip freeze
+  641  pip install fire
+  642  pip install questionary
+  643  pwd
+  644  ls
+  645  cd module 2
+  646  cd Module 2
+  647  cd Module_2
+  648  ls
+  649  cd Module 2
+  650  cd GitHub-Upload
+  651  cd Module 2/
+  652  cd /Module 2
+  653  cd ..
+  654  ls
+  655  cd module 2
+  656  ls
+  657  cd ..
+  658  cd Python_Project
+  659  cd Module\ 2
+  660  ls
+  661  python currency_converter.py
+  662  python currency_converter.py
+  663  python currency_converter.py
+  664  python currency_converter.py
+  665  python currency_converter.py
+  666  python currency_converter.py
+  667  python currency_converter.py
+  668  python currency_converter.py
+  669  python currency_converter.py
+  670  python currency_converter.py
+  671  python currency_converter.py
+  672  python currency_converter.py
+  673  python currency_converter.py
+  674  cd ..
+  675  ls
+  676  cd module\ 2/
+  677  ls
+  678  cd 01_Loan_Qualifier_Financial_Calculations
+  679  ls
+  680  cd unsolved
+  681  ls
+  682  python app.py
+  683  cd /users/grayson/desktop/fintech-workspace/
+  684  cd python-project
+  685  ls
+  686  cd python_project
+  687  ls
+  688  cd module\ 2/
+  689  ls
+  690  cd ..
+  691  ls
+  692  ls
+  693  cd module\ 2/
+  694  ls
+  695  cd 02_Loan_Qualifier_Filtering_Data
+  696  ls
+  697  cd unsolved
+  698  ls
+  699  ls
+  700  pwd
+  701  python app.py
+  702  python app.py
+  703  python app.py
+  704  python app.py
+  705  python app.py
+  706  conda atmdev
+  707  conda activate atmdev
+  708  ls
+  709  python app.py
+  710  cd ..
+  711  ls
+  712  cd ..
+  713  cd ..
+  714  cd /users/grayson/downloads
+  715  ls - ltr
+  716  ls -ltr
+  717  ls
+  718  cd Class_1_Activities\ 2/
+  719  ls
+  720  cd 05_Stu_ATM_Modularization
+  721  ls
+  722  cd unsolved
+  723  ls
+  724  cd atm
+  725  ls
+  726  python atm.py
+  727  python atm.py
+  728  python atm.py
+  729  python atm.py
+  730  python atm.py
+  731  pwd
+  732  pwd pwd
+  733  ls
+  734  cd actions
+  735  cd ..
+  736  pip install fire
+  737  pip install fire
+  738  pwd
+  739  cd /users/grayson/desktop/fintech-workspace
+  740  ls
+  741  cd python_project
+  742  ls
+  743  cd module\ 2/
+  744  ls
+  745  python cli.py
+  746  python cli.py
+  747  type python
+  748  type pip3
+  749  type pip
+  750  pip3 install fire
+  751  pip3 install fire
+  752  python cli.py
+  753  python cli.py
+  754  python cli.py
+  755  python cli.py
+  756  ls
+  757  cd Clothes_Picker
+  758  ls
+  759  python cli.py
+  760  python cli.py --pants=True
+  761  python random.py
+  762  pip install fire
+  763  pip install questionary
+  764  pwd
+  765  ls
+  766  python cli.py
+  767  python cli.py
+  768  python cli.py --pants(True)
+  769  python cli.py --pants=True
+  770  cd ..
+  771  ls
+  772  cd ..
+  773  cd ..
+  774  cd ..
+  775  cd ..
+  776  cd downloads
+  777  ls
+  778  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  779  ls
+  780  cd unsolved
+  781  ls
+  782  python app.py
+  783  python app.py
+  784  python app.py --credit_score=750
+  785  python app.py --credit_score=500
+  786  python app.py --credit_score=500 --debt=1000 --income=100000
+  787  python app.py --credit_score=500, --debt=1000, --income=100000
+  788  python app.py --credit_score=500 --debt=5000 --income=100000
+  789  python app.py --credit_score=500 --debt=5000 --income=100000
+  790  python app.py --credit_score=750 --debt=5000 --income=100000
+  791  pwd
+  792  ls
+  793  cd ..
+  794  ls
+  795  cd ..
+  796  ls
+  797  cd /Users/Grayson/desktop/FinTech-Workspace/python_project
+  798  ls
+  799  cd module\ 2
+  800  ls
+  801  python dialog.py
+  802  python dialog.py
+  803  python dialog.py
+  804  python dialog.py
+  805  python dialog.py
+  806  python dialog.py
+  807  python dialog.py
+  808  python dialog.py
+  809  ls
+  810  pwd
+  811  cd users/grayson
+  812  cd /users/grayson/downloads/02_Adding_questionary_to_Loan_Qualifier
+  813  cd unsolved
+  814  python app,py
+  815  ls
+  816  python app.py
+  817  python app.py --credit_score=750 --debt=500 --income=20000
+  818  python app.py
+  819  python app.py
+  820  python app.py
+  821  python app.py
+  822  python app.py
+  823  python app.py
+  824  python app.py
+  825  git config --global ghedrick76 <Grayson Hedrick>
+  826  git config --global ghedrick76 Grayson Hedrick
+  827  git config --global user.ghedrick76 Grayson Hedrick
+  828  git config --global user.graysonh76@icloud.com graysonh76@icloud.com
+  829  git config --list
+  830  cd /users/grayson
+  831  mkdir GitHub
+  832  ls
+  833  cd github
+  834  git clone https://github.com/ghedrick76/Test_Repo.git
+  835  pwd
+  836  ls
+  837  cd Test_Repo
+  838  ls
+  839  git status
+  840  git add README.md
+  841  git status
+  842  touch new_file.txt
+  843  ls
+  844  git status
+  845  git add new_file.txt
+  846  ls
+  847  git status
+  848  git commit -m "edited readme and added new text file"
+  849  git status
+  850  git push
+  851  git push
+  852  git push
+  853  git push
+  854  conda create -n atmdev python=3.7 anaconda
+  855  conda activate atmdev
+  856  pip install -r requirements.txt
+  857  cd /users/grayson
+  858  cd downloads
+  859  ls
+  860  cd Class_2_Activities\ 2/
+  861  ls
+  862  cd 02_Stu_Build_ATM_Functions
+  863  ls
+  864  cd unsolved
+  865  ls
+  866  cd atm
+  867  ls
+  868  python atm.py
+  869  conda activate dev
+  870  conda activate dev
+  871  python atm.py
+  872  python atm.py
+  873  pwd
+  874  cd /users/grayson/documents
+  875  ls
+  876  cd ..
+  877  desktop
+  878  cd desktop
+  879  cd fintech-workspace/python_project
+  880  ls
+  881  cd module\ 2/
+  882  mkdir atm_application
+  883  ls
+  884  cd atm_application
+  885  git clone https://github.com/ghedrick76/ATM_program.git
+  886  cd ..
+  887  ls
+  888  git clone /Users/grayson/Downloads/Class_2_Activities\ 2/02_Stu_Build_ATM_Functions/Unsolved/atm 
+  889  git clone https://github.com/ghedrick76/ATM_program.git
+  890  pwd
+  891  git status
+  892  git add atm_application
+  893  git add /users/grayson/desktop/fintech-workspace/python_project/module\ 2/ 
+  894  git status
+  895  git restore  /users/grayson/desktop/fintech-workspace/python_project/module\ 2/ 
+  896  git status
+  897  git restore --staged  /users/grayson/desktop/fintech-workspace/python_project/module\ 2/ 
+  898  git status
+  899  git add /users/grayson/desktop/fintech-workspace/python_program/module\ 2/atm_program
+  900  pwd
+  901  ls
+  902  git add /users/grayson/desktop/fintech-workspace/python_program/module\ 2/atm_program\n
+  903  git add /users/grayson/desktop/fintech-workspace/python_program/module\ 2/atm_program\nls
+  904  git add /users/grayson/desktop/fintech-workspace/python_program/module\ 2/atm_program
+  905  git status
+  906  git add /users/grayson/desktop/fintech-workspace/python_program/module\ 2/atm_program
+  907  git status
+  908  git add ../../../../desktop/fintech-workspace/python_project/module 2/ATM_program
+  909  git status
+  910  git add /users/grayson/desktop/fintech-workspace/python_project/module\ 2/atm_program
+  911  git push
+  912  git push --set-upstream origin main
+  913  git pull
+  914  git status
+  915  git pull ghedrick76/atm_program
+  916  git push
+  917  git push --set-upstream origin main
+  918  git pull https://github.com/ghedrick76/Fintech-Course.git
+  919  ls
+  920  git push
+  921  git clone https://github.com/ghedrick76/ATM_program.git
+  922  git clone https://github.com/ghedrick76/ATM_program.git
+  923  git status
+  924  git add /users/grayson/desktop/fintech-workspace/python_project/module\ 2/atm_program
+  925  git push
+  926  git status
+  927  git add /ATM_program
+  928  git add .
+  929  git status
+  930  git restore --staged /users/grayson/desktop/fintech-workspace/python_project/module\ 2/
+  931  git restore --staged .
+  932  cd atm_program
+  933  git add .
+  934  git push
+  935  git status
+  936  git push
+  937  git push
+  938  git status
+  939  git push
+  940  git add .
+  941  git status
+  942  git push
+  943  git commit .
+  944  conda activate dev
+  945  pwd
+  946  cd /users/grayson/desktop/fintech-workspace/python_project/module\ 2/atm_program
+  947  git add .
+  948  git status
+  949  git push
+  950  git branch -f myBranch HEAD
+  951  git status
+  952  git push
+  953  git commit .
+  954  git commit -m "Modified README and added files"
+  955  git push
+  956  git status
+  957  cd
+  958  pwd
+  959  cd /users/grayson/documents/module_2_challenge
+  960  ls
+  961  cd module_2_challenge
+  962  ls
+  963  git commit .
+  964  git add .DS_Store
+  965  git add loan_qualifier_app
+  966  dos2unix file
+  967  git status
+  968  git push -m added loan qualifier app
+  969  git status
+  970  git commit . -m 'added the loan qualifier app.'
+  971  git status
+  972  git push -m 'added the loan qualifier application'
+  973  git push
+  974  git push .
+  975  git status
+  976  git push .
+  977  git push --set-upstream . main
+  978  git push .
+  979  git status
+  980  pwd
+  981  git status
+  982  ls
+  983  ls
+  984  cd loan_qualifier_app
+  985  ls
+  986  python app.py
+  987  python app.py
+  988  python app.py
+  989  python app.py
+  990  python app.py
+  991  python app.py
+  992  python app.py
+  993  python app.py
+  994  ls
+  995  cd ..
+  996  ls
+  997  cd ..
+  998  ls
+  999  cd module_2_challenge
+ 1000  git commit .
+ 1001  conda activate dev
+ 1002  cd /users/grayson/documents/challenges/module_2_challenge
+ 1003  ls
+ 1004  cd loan_qualifier_app
+ 1005  ls
+ 1006  python app.py
+ 1007  cd ..
+ 1008  ls
+ 1009  git commit . -m "added the code to save to csv."
+ 1010  git status
+ 1011  git add loan_qualifier_app/data/qualified_loans.csv
+ 1012  git status
+ 1013  git push
+ 1014  python app.py
+ 1015  ls
+ 1016  cd loan_qualifier_app
+ 1017  ls
+ 1018  python app.py
+ 1019  python app.py
+ 1020  python app.py
+ 1021  python app.py
+ 1022  python app.py
+ 1023  ls
+ 1024  cd ..
+ 1025  ls
+ 1026  git commit . -m "moved save_csv function to utils folder"
+ 1027  git status
+ 1028  git add \tloan_qualifier_app/qualifier/utils/save_csv.py\n
+ 1029  git status
+ 1030  git push
+ 1031  git push
+ 1032  ls
+ 1033  cd loan_qualifier_app
+ 1034  ls
+ 1035  python app.py
+ 1036  python app.py
+ 1037  python app.py
+ 1038  git clone https://github.com/ghedrick76/module_2_challenge.git
+ 1039  python app.py
+ 1040  python app.py
+ 1041  python app.py
+ 1042  python app.py
+ 1043  python app.py
+ 1044  python app.py
+ 1045  python app.py
+ 1046  python app.py
+ 1047  python app.py
+ 1048  python app.py
+ 1049  python app.py
+ 1050  python app.py
+ 1051  python app.py
+ 1052  python app.py
+ 1053  python app.py
+ 1054  python app.py
+ 1055  ls
+ 1056  cd ..
+ 1057  ls
+ 1058  git commit -m "added the functionality for user to choose whether or not to save the qualifying loans to a new CSV file"
+ 1059  git status
+ 1060  git add modified:   loan_qualifier_app/app.py\n\tmodified:   loan_qualifier_app/data/qualified_loans.csv\n
+ 1061  git status
+ 1062  git add \tloan_qualifier_app/module_2_challenge/\n
+ 1063  git status
+ 1064  git add loan_qualifier_app/app.py
+ 1065  git add loan_qualifier_app/data/qualified_loans.csv
+ 1066  git status
+ 1067  git restore --staged loan_qualifier_app/app.py loan_qualifier_app/data/qualified_loans.csv\nloan_qualifier_app/module_2_challenge\n
+ 1068  git status
+ 1069  git restore --staged loan_qualifier_app/module_2_challenge\n
+ 1070  git status
+ 1071  git commit . -m "added the functionality for user to determine whether or not they wish to save the qualifying loans to a new CSV file"
+ 1072  git status
+ 1073  git add loan_qualifier_app/module_2_challenge/\n
+ 1074  git status
+ 1075  git push
+ 1076  ls
+ 1077  cd loan_qualifier_app
+ 1078  python app.py
+ 1079  python app.py
+ 1080  git commit . -m "added the ability for the user to choose where to save their qualifying loans"
+ 1081  git status
+ 1082  git push
+ 1083  git status
+ 1084  python app.py
+ 1085  pwd
+ 1086  cd ..
